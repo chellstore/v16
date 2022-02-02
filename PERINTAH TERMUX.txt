@@ -1,0 +1,29 @@
+https://www.youtube.com/channel/UCjX0Qvy1y3j8L0GPeH4OoEw
+────────────────────────────────────
+          Command Termux :
+────────────────────────────────────
+$ pkg update
+$ pkg upgrade
+$ pkg install nodejs
+$ pkg install nodejs-lts
+$ pkg install bash
+$ pkg install git
+$ pkg install mc
+$ pkg install imagemagick
+$ pkg install ffmpeg
+$ termux-setup-storage
+$ apt update && apt upgrade
+$ cd /sdcard
+$ cp -r v16 /$HOME 
+$ cd
+$ cd v16
+$ npm i
+$ npm start
+DONE 🙏🏻
+────────────────────────────────────
+Termux Wajib Yang ini :
+https://bit.ly/Termux-Bear
+────────────────────────────────────
+Mt Manager :
+https://m.apkgit.com/app/mt-manager/bin.mt.plus
+────────────────────────────────────
